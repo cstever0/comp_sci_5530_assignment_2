@@ -3,7 +3,7 @@
 ## Folder layout
 
 ```text
-tomato_project/
+Assignment_2_Project/
 ├── data_raw/
 │   ├── train.csv
 │   ├── diabetes.csv
