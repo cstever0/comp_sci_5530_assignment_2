@@ -20,8 +20,6 @@ Assignment_2_Project/
     └── 02_diabetes_sampling_bootstrap.ipynb
 ```
 
-The folder structure follows the instructor's illustrated `data_raw`, `data_clean`, `results`, and `src` layout. The folder name `tomato_project` matches the example, although this assignment analyzes used cars and diabetes. Only Jupyter notebooks (`.ipynb`) contain program source code.
-
 ## Run
 
 Install Python 3.10 or later and the required packages.
