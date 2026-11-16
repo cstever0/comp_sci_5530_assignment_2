@@ -1,0 +1,4 @@
+,Population statistic,Mean across 500 resamples,Bootstrap minus population
+Mean,69.105469,69.13636,0.030891
+Standard deviation,19.343202,19.059315,-0.283887
+98th percentile,99.32,97.65624,-1.66376
